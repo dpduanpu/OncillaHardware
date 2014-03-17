@@ -1,0 +1,3 @@
+Record=SheetSymbol|SourceDocument=MasterComm.SchDoc|Designator=U_dsPIC|SchDesignator=U_dsPIC|FileName=dsPIC.SchDoc|SymbolType=Normal|RawFileName=dsPIC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=MasterComm.SchDoc|Designator=U_Power3|SchDesignator=U_Power3|FileName=Power3.3V.SchDoc|SymbolType=Normal|RawFileName=Power3.3V.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=MasterComm.SchDoc
