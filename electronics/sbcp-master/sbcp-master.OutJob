@@ -60,7 +60,7 @@ PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=12992127|ViewY=7874016|LookAtX=18307088|LookAtY=14566929|LookAtZ=-1000|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=0.000113156996378976|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ViewConfig=
 OutputType3=PCB Print
-OutputName3=PCB Prints Top
+OutputName3=sbcp-master-top-pcb
 OutputCategory3=Documentation
 OutputDocumentPath3=
 OutputVariantName3=
@@ -86,7 +86,7 @@ Configuration3_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full
 Configuration3_Name7=OutputConfigurationParameter7
 Configuration3_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 OutputType4=Schematic Print
-OutputName4=Schematic Prints
+OutputName4=sbcp-master-schematics
 OutputCategory4=Documentation
 OutputDocumentPath4=
 OutputVariantName4=
@@ -227,7 +227,7 @@ OutputEnabled15_OutputMedium3=0
 OutputEnabled15_OutputMedium4=0
 OutputDefault15=0
 OutputType16=BOM_PartType
-OutputName16=Bill of Materials
+OutputName16=sbcp-master-bom
 OutputCategory16=Report
 OutputDocumentPath16=
 OutputVariantName16=
@@ -319,7 +319,7 @@ OutputEnabled22_OutputMedium3=0
 OutputEnabled22_OutputMedium4=0
 OutputDefault22=0
 OutputType23=PCB Print
-OutputName23=PCB Prints Bottom
+OutputName23=sbcp-master-bot-pcb
 OutputCategory23=Documentation
 OutputDocumentPath23=
 OutputVariantName23=
@@ -342,7 +342,7 @@ Configuration23_Name5=OutputConfigurationParameter5
 Configuration23_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 
 [PublishSettings]
-OutputFilePath2=Z:\oncilla-hardware\electronics\SBCP_master\.\pdf\
+OutputFilePath2=Z:\oncilla-hardware\electronics\sbcp-master\.\pdf\
 ReleaseManaged2=0
 OutputBasePath2=.\
 OutputPathMedia2=pdf
@@ -350,13 +350,13 @@ OutputPathMediaValue2=pdf
 OutputPathOutputer2=
 OutputPathOutputerPrefix2=SBCPMaster
 OutputPathOutputerValue2=foo
-OutputFileName2=SBCPMaster.pdf
+OutputFileName2=sbcp-master.pdf
 OutputFileNameMulti2=SBCPMaster_Schem.pdf
-UseOutputNameForMulti2=1
+UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
 OpenOutput2=1
 PromptOverwrite2=1
-PublishMethod2=1
+PublishMethod2=0
 ZoomLevel2=50
 FitSCHPrintSizeToDoc2=1
 FitPCBPrintSizeToDoc2=1
@@ -406,7 +406,7 @@ OutputFileNameSpecial4=
 OpenOutput4=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=Z:\oncilla-hardware\electronics\SBCP_master\.\pdf\
+RelativeOutputPath2=Z:\oncilla-hardware\electronics\sbcp-master\.\pdf\
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
