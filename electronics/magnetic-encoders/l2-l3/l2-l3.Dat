@@ -1,0 +1,10 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~l2-l3.PrjPcb|ReportField=ProjectFullPath~Z:\oncilla-hardware\electronics\magnetic-encoders\l2-l3\l2-l3.PrjPcb|ReportField=Title~l2-l3_bom For Schematic Document [l2-l3.SchDoc]|ReportField=TotalQuantity~15|ReportField=ReportTime~19:11:40|ReportField=ReportDate~18/03/2014|ReportField=ReportDateTime~18/03/2014 19:11:40|ReportField=OutputName~l2-l3_bom|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~18/03/2014|ReportField=CurrentTime~19:11:39|ReportField=Date~|ReportField=DocumentFullPathAndName~Z:\oncilla-hardware\electronics\magnetic-encoders\l2-l3\l2-l3.SchDoc|ReportField=DocumentName~l2-l3.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~18/03/2014|ReportField=Organization~|ReportField=ProjectName~l2-l3.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~l2-l3.SchDoc|ReportField=DataSourceFullPath~Z:\oncilla-hardware\electronics\magnetic-encoders\l2-l3\l2-l3.SchDoc
+10uF|Capacitor|C1|CAPC1608N|Cap|1
+100nF|Capacitor|C11, C21|CAPC1005N|Cap|2
+1nF|Capacitor|C22|CAPC1005N|Cap|1
+50mA, 1.5R|Ferrit Bead|F1, F2|RESC1608N|Fuse 1|2
+xR|Resistor|R11, R12, R22|RESC1005N|Res1|3
+0R|Resistor|R13|RESC1005N|Res1|1
+100R|Resistor|R21|RESC1005N|Res1|1
+AS5045|12 Bit Programmable Magnetic Rotary Encoder|U1, U2|SSOP16|AS5045|2
+SM08B-SURS|wire-to-board connector|X1, X2|SM08B-SURS|SM08B-SURS|2
