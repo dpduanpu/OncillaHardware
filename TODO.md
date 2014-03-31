@@ -9,5 +9,6 @@ Please find here a small todo list for this repository
    (Alexandre). This repo should be self-containing, and not rely on
    AMARSi redmine.
  * Migrate / Mirror to official AMARSi website (Alexandre).
-
+ * Updates SolidWork file to enable value / measure in eDrawing
+   (Massimo?)
 
